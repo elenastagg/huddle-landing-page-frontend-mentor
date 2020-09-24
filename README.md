@@ -2,7 +2,7 @@
 
 [View my live solution](https://huddle-landing-page-frontend-mentor.vercel.app/)
 
-# Created CSS & HTML based on Frontend Mentor's design
+# Created CSS & HTML based on Frontend Mentor's design
 
 - Used semantic HMTL
 - Mobile-first CSS
